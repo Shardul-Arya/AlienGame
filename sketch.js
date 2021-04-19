@@ -191,7 +191,7 @@ function setup() {
     elevatorSwitch = "off"
     elevatorSwitch2 = "off"
 
-    alien = createSprite(1000, 65, 30, 50);
+    alien = createSprite(100, 650, 30, 50);
     //alien.addImage(alienImage);
     alien.scale = 0.6
 
